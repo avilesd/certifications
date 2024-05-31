@@ -2,10 +2,11 @@
 
 2022: Nanodegree Certificate for Data Engineering from Udacity:
 - https://1drv.ms/b/s!Au3n4lNsGeiYg8s0XnLBc9pX1ptVzw?e=RGojL7
-- and in this repository
+- link to repository: https://github.com/avilesd/udacity-data-engineer
 
 2022: Link for Professional Data Scientist Certificate from Datacamp:
 - https://www.datacamp.com/certificate/DS0017514201013
+- link to repository: https://github.com/avilesd/certifications/tree/main/2022_dataScientist
 
 2014: Link for R Programming Certification through Johns Hopkings University (Coursera):
 - https://www.coursera.org/account/accomplishments/verify/WWG7SVMS3N
