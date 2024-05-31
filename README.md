@@ -1,5 +1,5 @@
-# List of relevant certifications for Data Science track
-
+# Relevant certifications and accomplishments as Data Scientist and Data Engineer
+## Certificates
 2022: Nanodegree Certificate for Data Engineering from Udacity:
 - https://1drv.ms/b/s!Au3n4lNsGeiYg8s0XnLBc9pX1ptVzw?e=RGojL7
 - link to repository: https://github.com/avilesd/udacity-data-engineer
@@ -11,4 +11,7 @@
 2014: Link for R Programming Certification through Johns Hopkings University (Coursera):
 - https://www.coursera.org/account/accomplishments/verify/WWG7SVMS3N
 
-
+## Accomplishments & Courses
+An overview of courses, projects and accomplishments in Python @Datacamp can be found under:
+- https://www.datacamp.com/portfolio/diegoaviles
+- as a backup, some of the states of accomplishments can be found here under: /accomps
