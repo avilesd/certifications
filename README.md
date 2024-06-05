@@ -1,5 +1,9 @@
 # Relevant certifications and accomplishments as Data Scientist and Data Engineer
 ## Certificates
+
+2024: Data Scientist Certification from Datacamp
+- https://www.datacamp.com/certificate/DS0026674119691
+
 2022: Nanodegree Certificate for Data Engineering from Udacity:
 - https://1drv.ms/b/s!Au3n4lNsGeiYg8s0XnLBc9pX1ptVzw?e=RGojL7
 - link to repository: https://github.com/avilesd/udacity-data-engineer
